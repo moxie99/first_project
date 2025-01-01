@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0b1hcjR4zaQ=",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/C#Codes/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
